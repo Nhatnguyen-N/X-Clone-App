@@ -1,6 +1,7 @@
 import express from "express";
 import {
   createPost,
+  deletePost,
   getPost,
   getPosts,
   getUserPosts,
@@ -19,5 +20,6 @@ router.get("/user/:username", getUserPosts);
 // protected routes
 router.post("/", protectRoute, upload.single("image"), createPost);
 router.post("/:postId/like", protectRoute, likePost);
+router.delete("/:postId", protectRoute, deletePost);
 
 export default router;
