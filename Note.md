@@ -2,6 +2,7 @@ link video:https://www.youtube.com/watch?v=uBdpV9GGlzo&list=PLIh7Cum07cvbd4UYpjR
 
 day 1:   1:29:31.
 day 2:   2:30:43.
+day 3:   3:40:49.
 
 
 
