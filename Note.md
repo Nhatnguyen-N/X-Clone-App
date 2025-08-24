@@ -3,6 +3,7 @@ link video:https://www.youtube.com/watch?v=uBdpV9GGlzo&list=PLIh7Cum07cvbd4UYpjR
 day 1:   1:29:31.
 day 2:   2:30:43.
 day 3:   3:40:49.
+day 4:   4:34:46
 
 
 
@@ -12,3 +13,4 @@ cloudinary.
 arcjet====> rate limiting
 multer----> upload.middleware.js
 deploy backend ====> vercel
+tanstack ==> connect clerk with mongodb.
