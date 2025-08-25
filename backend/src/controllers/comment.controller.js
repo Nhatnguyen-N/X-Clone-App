@@ -50,7 +50,7 @@ export const createComment = asyncHandler(async (req, res) => {
       comment: comment._id,
     });
   }
-  re.status(201).json({ comment });
+  res.status(201).json({ comment });
 });
 
 export const deleteComment = asyncHandler(async (req, res) => {
